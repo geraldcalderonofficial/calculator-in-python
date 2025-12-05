@@ -1,5 +1,5 @@
 # Calculator in Python
 
-create a simple calculator that can add, subtract, multiply or divide depending upon the input from the user.
+Create a simple calculator that can add, subtract, multiply or divide depending upon the input from the user.
 
-[Gerald Works]()
+[Gerald Works](https://geraldworks.dev/calculator-in-python/)
